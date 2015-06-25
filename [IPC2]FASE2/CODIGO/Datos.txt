@@ -1,0 +1,13 @@
+insert into sede (nombre)values('guatemala')
+insert into sede (nombre)values('usa')
+insert into sucursal(nombre,telefono,direccion,capacidad,cod_sede)values('san jose','000','000','300',1)
+insert into sucursal(nombre,telefono,direccion,capacidad,cod_sede)values('tigre','000','000','300',1)
+insert into sucursal(nombre,telefono,direccion,capacidad,cod_sede)values('super rex','000','000','300',1)
+insert into aduana(porcentaje,estado)values(10,0)
+insert into ganancia(porcentaje,estado)values(5,0)
+insert into depto(nombre)values('bodega')
+insert into depto(nombre)values('servicio')
+insert into depto(nombre)values('importaciones')
+insert into depto(nombre)values('director')
+insert into depto(nombre)values('administrador')
+

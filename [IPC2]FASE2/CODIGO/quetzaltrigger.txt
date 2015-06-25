@@ -1,0 +1,21 @@
+
+CREATE TRIGGER asignar_lote
+   ON  pedido
+   AFTER INSERT
+AS 
+BEGIN
+	declare @fecha as date
+	declare @cod_sucursal as int
+	declare @cod_lote as int
+	select @fecha=fecha,
+		   @cod_sucursal=cod_sucursal
+	from inserted
+	select @cod_lote=l.cod_lote from lote l 
+	where @fecha<l.fecha and @cod_sucursal=l.cod_sucursal
+	
+	insert pedido (cod_lote) values(@cod_lote)
+	
+	
+
+END
+GO

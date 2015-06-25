@@ -1,0 +1,5 @@
+apellido,nombre,sueldo,sucursal,depto
+a,a,1,san jose,bodega
+b,b,1,san jose,servicio al cliente
+c,c,1,san jose,importaciones
+

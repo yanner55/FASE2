@@ -1,0 +1,28 @@
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\bin\Debug\aplicada.exe.config
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\bin\Debug\aplicada.exe
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\bin\Debug\aplicada.pdb
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\bin\Debug\aplicada.xml
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.MenuPrincipal.resources
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.Resources.resources
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.vbproj.GenerateResource.Cache
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.exe
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.xml
+c:\users\yanner\documents\visual studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.pdb
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\aplicada\aplicada\bin\Debug\aplicada.exe.manifest
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\aplicada\aplicada\bin\Debug\aplicada.application
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.exe.manifest
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\aplicada\aplicada\obj\Debug\aplicada.application
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\bin\Debug\aplicada.exe.config
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.exe
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.xml
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.pdb
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.MenuPrincipal.resources
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.Resources.resources
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.vbproj.GenerateResource.Cache
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\bin\Debug\aplicada.exe.manifest
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\bin\Debug\aplicada.application
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\bin\Debug\aplicada.exe
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\bin\Debug\aplicada.pdb
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\bin\Debug\aplicada.xml
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.exe.manifest
+C:\Users\yanner\Documents\Visual Studio 2012\Projects\proyecto 1 LFP 2015\aplicada\obj\Debug\aplicada.application
