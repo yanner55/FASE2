@@ -1,0 +1,2 @@
+categoria,casilla,peso,precio
+zapatos,2,3.9,39.9

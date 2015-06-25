@@ -1,0 +1,3 @@
+lote,cateogira,casilla,peso,precio,paquete
+2,video,2,100,500.00,10
+2,video,2,10,400.00,12

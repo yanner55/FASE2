@@ -1,0 +1,17 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="MPLibro.master.cs" Inherits="Libros_MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoMenuContextual" Runat="Server">
+    <ul id="MenuContextual">
+        <li><a href="AgregarLibro.aspx">Agregar Libro</a></li>
+        <li><a href="Consultar.aspx">Consultar Libro</a></li>
+        <li><a href="MasPrestados.aspx">Libros Mas Prestados</a></li>
+    </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" Runat="Server">
+    <asp:ContentPlaceHolder id="contenidoPrincipal" runat="server">
+        
+        </asp:ContentPlaceHolder>
+</asp:Content>
+

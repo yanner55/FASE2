@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="QuetzalCliente.master.cs" Inherits="Clientes_MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoMenuContextual" Runat="Server">
+    <ul id="MenuContextual">
+        <li><a href="ConsultarPedido.aspx">CONSULTAR PEDIDO</a></li>
+        
+        <li><a href="ModificarPerfil.aspx">MODIFICAR PERFIL</a></li>
+        <li><a href="Cotizar.aspx">COTIZAR</a></li>
+        
+    </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" Runat="Server">
+    <asp:ContentPlaceHolder id="contenidoPrincipal" runat="server">
+        
+    </asp:ContentPlaceHolder>
+ 
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContenidoMenuInformacion" Runat="Server" >
+    <asp:ContentPlaceHolder id="ContenidoMenuInformacion" runat="server">
+        
+    </asp:ContentPlaceHolder>
+ 
+</asp:Content>
+
+

@@ -1,0 +1,2 @@
+categoria,impuesto
+motos,7

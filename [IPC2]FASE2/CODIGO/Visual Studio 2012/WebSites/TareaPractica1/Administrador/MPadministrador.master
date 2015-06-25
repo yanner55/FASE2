@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="MPadministrador.master.cs" Inherits="Administrador_MPadministrador" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoMenuContextual" Runat="Server">
+     <ul id="MenuContextual">
+        <li><a href="Gestionar Costos.aspx">GESTIONAR COBRO</a></li>
+        <li><a href="CargaMasiva.aspx">CARGA MASIVA</a></li>
+        
+      </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" Runat="Server">
+    
+    <asp:ContentPlaceHolder id="contenidoPrincipal" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContenidoMenuInformacion" Runat="Server">
+    <asp:ContentPlaceHolder id="ContenidoMenuInformacion" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</asp:Content>
+

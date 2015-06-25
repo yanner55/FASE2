@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="MPserviciocliente.master.cs" Inherits="ServicioCliente_MPserviciocliente" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoMenuContextual" Runat="Server">
+    <ul id="MenuContextual">
+    <li><a href="EntregayFacturacion.aspx">ENTREGA Y FACTURACION</a></li>
+        <li><a href="Devolucion.aspx">DEVOLUCION</a></li>
+        <li><a href="BuscarCliente.aspx">BUSQUEDA DE CLIENTE</a></li>
+        <li><a href="ValidarCliente.aspx">VALIDAR CLIENTE</a></li>
+    </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" Runat="Server">
+    <asp:ContentPlaceHolder ID="ContenidoPrincipal" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContenidoMenuInformacion" Runat="Server">
+    <asp:ContentPlaceHolder ID="ContenidoMenuInformacion" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>
+

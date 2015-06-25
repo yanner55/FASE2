@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="MPbodega.master.cs" Inherits="Bodega_MPbodega" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoMenuContextual" Runat="Server">
+    <ul id="MenuContextual">
+        <li><a href="Paquetes Perdidos.aspx">PAQUETE PERDIDO</a></li>
+            </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" Runat="Server">
+    <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContenidoMenuInformacion" Runat="Server">
+    <asp:ContentPlaceHolder ID="ContenidoMenuInformacion" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>
+

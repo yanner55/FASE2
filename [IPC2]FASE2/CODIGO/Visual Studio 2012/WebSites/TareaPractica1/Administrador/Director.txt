@@ -1,0 +1,3 @@
+nombre,apellido,sueldo,sucursal,depto
+b,b,1,san jose,servicio
+c,c,1,san jose,importaciones
